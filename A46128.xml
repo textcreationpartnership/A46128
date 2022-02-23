@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas by two several proclamation, the one bearing date the 27th of October in the year 1673, and the other bearing date the 27th day of April in the year 1674 ... all titular popish archbishops, bishops, vicars-general, abbots and all others exercising ecclesiastical jurisdiction by any authority derived from the pope or see of Rome ... / by the Lord Lieutenant and Council, Ormonde.</title>
+            <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46128</idno>
+            <idno type="STC">Wing I761</idno>
+            <idno type="STC">ESTC R43296</idno>
+            <idno type="EEBO-CITATION">27137686</idno>
+            <idno type="OCLC">ocm 27137686</idno>
+            <idno type="VID">110000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110000)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1721:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas by two several proclamation, the one bearing date the 27th of October in the year 1673, and the other bearing date the 27th day of April in the year 1674 ... all titular popish archbishops, bishops, vicars-general, abbots and all others exercising ecclesiastical jurisdiction by any authority derived from the pope or see of Rome ... / by the Lord Lieutenant and Council, Ormonde.</title>
+                  <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke ... and are to be sold by Mary Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title from first lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imperfect: faded, with loss of text.</note>
+                  <note>"Given at the Council Chamber in Dublin, the 16th. day of October, 1678."</note>
+                  <note>Reproduction of original in Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Ireland.</term>
+               <term>Ireland --  History --  1660-1688.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110000:1"/>
+            <!-- PDF PAGE 41 -->
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> QVI <gap reason="illegible" extent="3 words">
+                        <desc>〈◊◊◊〉</desc>
+                     </gap>
+                  </q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lord Lieutenant AND COUNCIL.</head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas by two ſeveral Proclamation, the one bearing date the 27th of <hi>October</hi> in the year <hi>1673;</hi> and the other bearing date the 27th day of <hi>April</hi> in the year <hi>1674.</hi> both iſſued from this Board according to his Majeſties ſpecial Commands; <q>All Ti<g ref="char:EOLhyphen"/>tular Popiſh Archbiſhops, Biſhops, Vicars-General, Abbots, and all others exerciſing Eccleſiaſtical Iuriſdiction, by any authority derided from the Pope or See of <hi>Rome</hi> in this Kingdom, And alſo all Regular Prieſts were required by cer<g ref="char:EOLhyphen"/>tain days in the ſaid ſeveral Proclamations Limitted, to depart out of this H<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Majeſties Kingdom of <hi>Ireland.</hi> And it was thereby alſo required and Commanded that all Convents, Seminaries, Fryeries Nunneries and Popiſh Schools in this Kingdome ſhould be forth<g ref="char:EOLhyphen"/>with diſſolded and ſuppreſſed.</q>
+            </p>
+            <p>And whereas We are Informed, that notwithſtanding the ſaid ſeveral Proclamations, divers of the ſaid Titular Popiſh Archbi<g ref="char:EOLhyphen"/>ſhops, Biſhops, Vicars-General, Abbots, and others exerciſing Eccleſiaſticall Iuriſdiction by authority derived from the Pope or See of <hi>Rome,</hi> and alſo divers Ieſuites and other Regular Prieſts refuſing to give obedience thereunto, do remain ſtill in this Kingdome; And that alſo ſeveral opiſh Societies, Convents, Seminaries, Frye<g ref="char:EOLhyphen"/>ries, Nunneries and Popiſh Schools are ſtill kept up in this King<g ref="char:EOLhyphen"/>dome in Contempt of His Majeſties authority, and of the Laws of this Realm. So that We might juſtly cauſe the ſaid ſeveral perſons, who contrary to the ſaid Proclamations do ſtill continue in this King<g ref="char:EOLhyphen"/>dom, to be immediately ſeized upon, ſecured and proceeded againſt accor<g ref="char:EOLhyphen"/>ding to their demerits for ſuch their wilful diſobedience; and whereas upon information given upon oath before the Lords of his Majeſties moſt Honourable privy Council in <hi>England,</hi> touching a dangerous Con<g ref="char:EOLhyphen"/>ſpiracy againſt the life of his Sacred Majeſty, and for the ſubverſion of the Government. It hath been teſtified that divers particulars of pernicious conſequence have been lately contrived and tranſacted in this Kingdom of <hi>Ireland</hi> by Ieſuites and others of the opiſh Clergy, exerciſing Iuriſdiction in this Kingdom by authority from the Pope or See of <hi>Rome.</hi> Whereupon His Majeſty hath lately been pleaſed to ſignify His Royal will and pleaſure, that We the Lord Lieutenant ſhould provide ſuch ſpeedy remedies for the ob<g ref="char:EOLhyphen"/>ſtruction of thoſe evils informed of, as We in Our wiſdome ſhall think fit, and in particular, that We ſhould uſe effectual means <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o compel all the titular Biſhops, and other Dignitaries of the Church of <hi>Rome,</hi> to depart this Kingdom with all poſſible ſpeed.</p>
+            <p>
+               <pb facs="tcp:110000:2"/>
+               <!-- PDF PAGE 42 -->
+We the Lord Lieutenant and Council therefore do by this Our Proclamation in His Majeſties Name, ſtraightly charge and Com<g ref="char:EOLhyphen"/>mand all Titular Popiſh Archbiſhops, Biſhops, Vitars-General, Abbots and other Dignitaries of the Church of <hi>Rome,</hi> and all others exerciſing Eccleſiaſtical Iuriſdiction, or who have exerciſed any Eccleſi<g ref="char:EOLhyphen"/>aſtical Iuriſdiction in this Kingdom by any authority derived from the Pope or See of <hi>Rome,</hi> and alſo all Ieſuites and other regular Prieſts, that they do by or before the twentieth day of <hi>November</hi> next, depart out of this His Majeſties Kingdom of <hi>Ireland;</hi> and that all Popiſh Socie<g ref="char:EOLhyphen"/>ties, Convents, Seminaries, Fryeries, Nunneries and Popiſh Schools do forthwith diſſolve and ſeparate themſelves, and be henceforth utter<g ref="char:EOLhyphen"/>ly ſuppreſſed; And We do expreſly forbid and prohibit all and every His Majeſties Subjects within this Realm, to receive, harbour or relieve any of the ſaid Titular Popiſh Arch-biſhops, Biſhops, Vicars-General, Abbots, Dignitaries, Ieſuites, Regular Prieſts, or any of the perſons aforeſaid after the time hereby Limitted for their departure out of this Realm. And We do alſo forbid and prohibit all manner of perſons to frequent, reſort unto, keep up, or by any wayes ſupport or maintain any ſuch Societies, Convents, Seminaries, Fryriels, Nunneries, or Popiſh Schooles in this Kingdome, as they weil an<g ref="char:EOLhyphen"/>ſwer the Contrary at their perils.</p>
+            <p>And We do hereby declare and Publiſh, that if any of the ſaid Titular Popiſh Archbiſhops, Biſhops, or other Perſons hereby Com<gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> depart out of this Kingdom, ſhall at any time before t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tieth day of <hi>November</hi> next, reſort to any Port-Town of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and there declare to the Chief Magiſtrate or Officer of the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or Port that he is a perſon included within this Our Proclamation, and that he is there to take ſhipping for his paſſage, they ſhall ſuffer him or them quietly to depart, and ſhall ſee them ſhipt and ſent away for forreign parts, and give them their furtherance for their depar<g ref="char:EOLhyphen"/>ture.</p>
+            <p>And We do further in His Majeſties Name ſtraightly charge &amp; com<g ref="char:EOLhyphen"/>mand all and every the Mayors, Soveraigns, Bayliffes, Portrives, &amp; all other cheif Magiſtrates and officers of the ſeveral and reſpective Cities and Towns Corporate of this Kingdom, and all and every the Iuſtices of the Peace, Sheriffs, Conſtables, and all other His Maje<g ref="char:EOLhyphen"/>ſties good and Loyal Subjects, that they be more diligent and active then formerly they have been, in putting theſe commands in execution, upon pain of His Majeſties High Diſpleaſure, and that they and eve<g ref="char:EOLhyphen"/>ry of them from and immediatly after the ſaid twentieth day of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> next, do make ſtrict and diligent ſearch and enquiry within the ſe<g ref="char:EOLhyphen"/>veral and reſpective Cities, Towns Corporate, Liberties, Countyes, Baronies, Pariſhes and places within their ſeveral Iuriſdictions, for &amp; after all ſuch titular Popiſh Archbiſhops, Biſhops, Vicars-General, Abbots, Dignitaries, and all others exerciſing, or who have exerciſed Eccleſiaſtical Iuriſdiction in this Kingdom by any authority derived from the Pope or See of <hi>Rome,</hi> and alſo for and after all Ieſuites and other regular prieſts, who at any time after the ſaid twentieth day of <hi>November</hi> next, ſhall continue, remain, or abide in this Kingdom, or ſhall return or come into this Kingdom; And alſo for and after all and every the Receivers, Relievers and harbourers of them, or any of them; And further, that they take ſpecial care that all Societies, Con<g ref="char:EOLhyphen"/>vents, Seminaries, Fryeries, Nunneries, and Popiſh Schools within this Kingdom, be immediately diſſolved and utterly ſuppreſſed, &amp; that upon diſcovery of any ſuch titular Popiſh Archbiſhops, Biſhops, or other perſons hereby required to depart out of this Realm, that they do forthwith apprehend them, and commit them, &amp; every of them into ſafe cuſtody, and Certifie Vs the Lord Lieutenant and Council thereof, with all convenient ſpeed, &amp; do alſo forthwith return unto Vs the names of all their Receivers, relievers and harbourers, and do take ſpecial care that the ſaid perſons be forthwith proſecuted for their Contempt, &amp; proceeded againſt according to the Laws of this Kingdom,</p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Dublin</hi> 
+                  <date>the 16th. day of <hi>Octobor.</hi> 1678.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Mich: Dublin. Canc.</item>
+                     <item>Donegall.</item>
+                     <item>Bleſinton.</item>
+                     <item>Lainsborough.</item>
+                     <item>Hen: Midenſis.</item>
+                     <item>Ro: Fitz-Gerald.</item>
+                     <item>Ca: Dillon.</item>
+                     <item>Char: Meredith.</item>
+                     <item>Ro: Booth.</item>
+                     <item>J: Davys.</item>
+                     <item>John Cole.</item>
+                     <item>W: Flowr.</item>
+                     <item>Mau: Euſtace</item>
+                     <item>Tho: Newcomen.</item>
+                  </list>
+               </signed>
+               <lb/>
+God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Benjamin Tooke,</hi> Printer to the King's moſt Excellent Majeſtie; and are to be ſold by <hi>Mary Crook</hi> at His Majeſties Printing-Houſe in <hi>Skinner-Row.</hi> 1678.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
